@@ -1,0 +1,27 @@
+{
+  "name": "@prarthanagade/new-folder",
+  "version": "1.0.2",
+  "description": "A CLI tool example",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "new-folder": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prarthana",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.8.1",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.5.2",
+    "nanospinner": "^1.2.2",
+    "ora": "^8.2.0"
+  }
+}
